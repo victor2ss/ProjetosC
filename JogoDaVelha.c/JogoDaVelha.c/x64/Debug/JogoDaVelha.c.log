@@ -1,0 +1,3 @@
+﻿  JogoDaVelha.c.cpp
+C:\Users\Victor Santos\source\repos\JogoDaVelha.c\JogoDaVelha.c\JogoDaVelha.c.cpp(85,1): warning C4715: 'verificarVencedor': nem todos os caminhos de controle retornam um valor
+  JogoDaVelha.c.vcxproj -> C:\Users\Victor Santos\source\repos\JogoDaVelha.c\x64\Debug\JogoDaVelha.c.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Santos\\source\\repos\\CadastroClientes.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E6186-FD03-4AB1-B60C-B3839B2A43A9}|CadastroClientes.c\\CadastroClientes.c.vcxproj|C:\\Users\\Victor Santos\\source\\repos\\CadastroClientes.c\\CadastroClientes.c\\CadastroClientes.c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F07E6186-FD03-4AB1-B60C-B3839B2A43A9}|CadastroClientes.c\\CadastroClientes.c.vcxproj|solutionrelative:CadastroClientes.c\\CadastroClientes.c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroClientes.c.cpp",
+              "DocumentMoniker": "C:\\Users\\Victor Santos\\source\\repos\\CadastroClientes.c\\CadastroClientes.c\\CadastroClientes.c.cpp",
+              "RelativeDocumentMoniker": "CadastroClientes.c\\CadastroClientes.c.cpp",
+              "ToolTip": "C:\\Users\\Victor Santos\\source\\repos\\CadastroClientes.c\\CadastroClientes.c\\CadastroClientes.c.cpp",
+              "RelativeToolTip": "CadastroClientes.c\\CadastroClientes.c.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAwwHIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-30T03:16:01.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
